@@ -1,5 +1,5 @@
 # HP-Omen-X-17-GTX-1080-Ventura
-Hackintosh macOS Ventura 13.0 beta 2 HP-Omen-X-17-GTX-1080
+Hackintosh macOS Ventura 13.0 beta 2 (22A5286j), HP-Omen-X-17-GTX-1080
 
 ![Ventura 13 0 beta 2](https://user-images.githubusercontent.com/79387598/175444353-9f3b6868-61d2-40ac-8dcd-5f13f4de5abb.png)
 
